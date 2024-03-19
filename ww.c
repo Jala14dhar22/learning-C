@@ -2,7 +2,7 @@
 
 int main(){
 
-    printf("Hello World!");
+    printf("welcome to vs code");
 
     return 0;
 }
